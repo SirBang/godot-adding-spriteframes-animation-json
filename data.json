@@ -1,0 +1,18 @@
+{
+	"animation":{
+		"frame_w": 16,
+		"frame_h": 16,
+		"draw_w" : 16,
+		"draw_h" : 16,	
+		"default" :  "idle",
+		"animations": [
+			{
+				"name": "idle",
+				"filename": "res://assets/fly_anim_spritesheet.png",
+				"num_frames_x": 6,
+				"num_frames_y": 1,
+				"fps": 5
+			}	
+		]
+	}
+}
